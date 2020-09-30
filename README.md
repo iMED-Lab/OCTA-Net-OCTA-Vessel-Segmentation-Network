@@ -2,7 +2,6 @@
 <span id="jump1"></span>
 # OCTA-Net: A Two-stage Framework for Vessel Segmentation in OCTA Images
 ![OCTA-Net Show](./figures/frame.png)
-![ResNeSt Show](./figures/resnest.png)
 
 ###  [Paper](https://arxiv.org/pdf/2007.05201.pdf) | [BibTex](#jump2)
 
