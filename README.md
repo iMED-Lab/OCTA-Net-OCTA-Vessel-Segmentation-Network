@@ -73,12 +73,17 @@ cd code/OCTA-Net
 ```
 
 Note:
+
 train: --mode train
+
 test: --mode test
 
 SCC (ROSE-1): --dataset rose --data_dir ../../data/ROSE-1/SCC
+
 DCC (ROSE-1): --dataset rose --data_dir ../../data/ROSE-1/DCC
+
 WRCC (ROSE-1): --dataset rose --data_dir ../../data/ROSE-1/WRCC
+
 ROSE-2: --dataset cria --data_dir ../../data/ROSE-2
 
 
