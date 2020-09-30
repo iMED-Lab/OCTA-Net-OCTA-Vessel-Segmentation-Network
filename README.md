@@ -1,7 +1,7 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
 <span id="jump1"></span>
 # OCTA-Net: A Two-stage Framework for Vessel Segmentation in OCTA Images
-![MEDFE Show](./frame.png)
+![OCTA-Net Show](./figures/frame.png)
 
 ###  [Paper](https://arxiv.org/pdf/2007.05201.pdf) | [BibTex](#jump2)
 
