@@ -10,6 +10,8 @@ ROSE: A Retinal OCT-Angiography Vessel Segmentation Dataset and New Model .<br>
 
 [Yuhui Ma](#jump1),  [Huaying Hao](#jump1), [Jianyang Xie](#jump1), [Huazhu Fu](#jump1), [Jiong Zhang](#jump1), [Jianlong Yang](#jump1), [Zhen Wang](#jump1), [Jiang Liu](#jump1), [Yalin Zheng](#jump1) and [Yitian Zhao](#jump1) .<br>
 
+### [License](https://github.com/iMED-Lab/OCTA-Net-OCTA-Vessel-Segmentation-Network/blob/master/LICENSE)
+
 All rights reserved.
 
 The code and data are released for academic research use only. For commercial use, please contact [yitian.zhao@nimte.ac.cn](#jump1).
