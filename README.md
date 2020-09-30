@@ -40,7 +40,8 @@ Prerequisites
 ## ROSE:  A Retinal OCT-Angiography Vessel SEgmentation Dataset
 
 The information about the ROSE dataset could be seen in the following link: 
-[dataofrose](https://imed.nimte.ac.cn/dataofrose.html)
+
+https://imed.nimte.ac.cn/dataofrose.html
 
 ## Run the code
 
