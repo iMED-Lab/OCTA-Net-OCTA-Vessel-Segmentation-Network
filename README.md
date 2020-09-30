@@ -44,7 +44,7 @@ The information about the ROSE dataset could be seen in the following link:
 ## Run the code
 
 ```
-cd code/OCTA-Net
+    cd code/OCTA-Net
 ```
 ### Start Visdom
 ```
