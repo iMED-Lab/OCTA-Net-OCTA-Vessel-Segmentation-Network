@@ -35,6 +35,6 @@ parser.add_argument("--models_dir", type=str, default="models", help="path to fo
 parser.add_argument("--results_dir", type=str, default="results", help="path to folder for saving results")
 parser.add_argument("--first_suffix", type=str, default="189-0.9019971996250081.pth", help="front_model-[model_suffix].pth will be loaded in models_dir")
 parser.add_argument("--first_suffix1", type=str, default="189-0.9019971996250081.pth", help="front_model-[model_suffix].pth will be loaded in models_dir")
-parser.add_argument("--second_suffix", type=str, default="370-0.9035.pth", help="front_model-[model_suffix].pth will be loaded in models_dir")
+parser.add_argument("--second_suffix", type=str, default="370-0.9035.pth", help="fusion_model-[model_suffix].pth will be loaded in models_dir")
 
 args = parser.parse_args()
