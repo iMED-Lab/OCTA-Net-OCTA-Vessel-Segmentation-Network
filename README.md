@@ -95,10 +95,11 @@ ROSE-2: --dataset cria --data_dir ../../data/ROSE-2
 If you use this code for your research, please cite our papers.
 ```
 @article{ma2020rose,
-  title={ROSE: A Retinal OCT-Angiography Vessel Segmentation Dataset and New Model},
+  title={ROSE: a retinal OCT-angiography vessel segmentation dataset and new model},
   author={Ma, Yuhui and Hao, Huaying and Xie, Jianyang and Fu, Huazhu and Zhang, Jiong and Yang, Jianlong and Wang, Zhen and Liu, Jiang and Zheng, Yalin and Zhao, Yitian},
-  journal={arXiv preprint arXiv:2007.05201},
-  year={2020}
+  journal={IEEE transactions on medical imaging},
+  year={2020},
+  publisher={IEEE}
 }
 ```
 
