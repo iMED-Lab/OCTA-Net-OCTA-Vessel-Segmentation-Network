@@ -97,8 +97,12 @@ If you use this code for your research, please cite our papers.
 @article{ma2020rose,
   title={ROSE: a retinal OCT-angiography vessel segmentation dataset and new model},
   author={Ma, Yuhui and Hao, Huaying and Xie, Jianyang and Fu, Huazhu and Zhang, Jiong and Yang, Jianlong and Wang, Zhen and Liu, Jiang and Zheng, Yalin and Zhao, Yitian},
-  journal={IEEE transactions on medical imaging},
-  year={2020},
+  journal={IEEE Transactions on Medical Imaging},
+  year={2021},
+  volume={40},
+  number={3},
+  pages={928--939},
+  doi={10.1109/TMI.2020.3042802},
   publisher={IEEE}
 }
 ```
