@@ -6,7 +6,7 @@
 
 ###  [Paper](https://arxiv.org/pdf/2007.05201.pdf) | [BibTex](#jump2)
 
-ROSE: A Retinal OCT-Angiography Vessel Segmentation Dataset and New Model .<br>
+ROSE: A Retinal OCT-Angiography Vessel Segmentation Dataset and New Model<br>
 
 [Yuhui Ma](#jump1),  [Huaying Hao](#jump1), [Jianyang Xie](#jump1), [Huazhu Fu](#jump1), [Jiong Zhang](#jump1), [Jianlong Yang](#jump1), [Zhen Wang](#jump1), [Jiang Liu](#jump1), [Yalin Zheng](#jump1) and [Yitian Zhao](#jump1) .<br>
 
